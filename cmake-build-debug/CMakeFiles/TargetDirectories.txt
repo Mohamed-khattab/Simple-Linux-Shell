@@ -1,0 +1,3 @@
+/home/khattab/Data/Dev/Operating system projects/shell/cmake-build-debug/CMakeFiles/shell.dir
+/home/khattab/Data/Dev/Operating system projects/shell/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/khattab/Data/Dev/Operating system projects/shell/cmake-build-debug/CMakeFiles/rebuild_cache.dir
