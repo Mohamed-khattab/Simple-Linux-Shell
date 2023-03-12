@@ -13,7 +13,7 @@ To compile and run the program, follow these steps:
 
 3. Run the program by entering the following command:
 
-<font color="green">./shell</font>
+<font color="green">`./shell`</font>
 
 
 
