@@ -8,10 +8,9 @@ To compile and run the program, follow these steps:
 
 1. Open a terminal window and navigate to the directory containing the `main.c` file.
 2. Compile the program using the following command:
-
-gcc -o shell main.c
+`gcc -o shell main.c`
 3. Run the program by entering the following command:
-./shell
+`./shell`
 
 
 ## Usage
