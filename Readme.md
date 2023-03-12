@@ -2,7 +2,7 @@
 
 This is a basic shell program for Linux that supports basic commands such as `exit`, `pwd`, `clear`, `cd`, `echo`, `rm`, and `mkdir`. It also includes environment management with `setenv`, `unsetenv`, and `getenv`, and program invocation with forking and child processes. Additionally, it supports background execution of programs with `&` at the end of the command, and sends a `SIGINT` signal when `Ctrl-C` is pressed (the shell is not exited).
 
-![My Image](images/pic 1.jpg "Optional Title")
+![My Image](pic1.jpg "Optional Title")
 
 
 ## How to run
