@@ -9,11 +9,11 @@ To compile and run the program, follow these steps:
 1. Open a terminal window and navigate to the directory containing the `main.c` file.
 2. Compile the program using the following command:
 
-<font color="red">`gcc -o shell main.c`</font>
+<font color="green">`gcc -o shell main.c`</font>
 
 3. Run the program by entering the following command:
 
-<font color="red">`./shell`</font>
+<font color="green">./shell</font>
 
 
 
@@ -32,6 +32,5 @@ The shell supports the following commands:
 - `unsetenv`: Unset an environment variable. Usage: `unsetenv [variable]`.
 - `getenv`: Get the value of an environment variable. Usage: `getenv [variable]`.
 
-To execute a program in the foreground, simply enter the name of the program followed by any arguments. For example:
 
 
