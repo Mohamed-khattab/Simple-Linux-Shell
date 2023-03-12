@@ -7,3 +7,9 @@
 - Program invocation with forking and child processes
 - support Background execution of programs with & at the end od the command
 - SIGINT signal when Ctrl-C is pressed (shell is not exited)
+
+## How to run 
+
+gcc -o shell main.c 
+
+./shell
